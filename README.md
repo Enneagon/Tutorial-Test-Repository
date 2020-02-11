@@ -1,3 +1,3 @@
 # Tutorial-Test-Repository
 
-This is a test.
+This is an example of code to put into a repository.
